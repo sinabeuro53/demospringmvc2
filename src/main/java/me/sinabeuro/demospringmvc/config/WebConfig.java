@@ -1,4 +1,4 @@
-package me.sinabeuro.demospringmvc.config;
+/*package me.sinabeuro.demospringmvc.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
@@ -13,4 +13,4 @@ public class WebConfig implements WebMvcConfigurer {
                 .addResourceLocations("classpath:/m/")
                 .setCachePeriod(20);
     }
-}
+}*/
